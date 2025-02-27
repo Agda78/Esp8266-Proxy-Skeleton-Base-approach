@@ -1,6 +1,6 @@
 #include "RequestHandler.h"
 
-// Implementazione effettiva dei servizi
+// Practical service implementation
 String handleRequest(String request) {
     if (request == "SERVICE_1") {
         return "Service_1_on_board";
